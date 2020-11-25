@@ -1,0 +1,10 @@
+*.abc
+*.o
+*.txt
+parser.cpp
+scanner.cpp
+parser.hpp
+parser.output
+al
+.vscode/
+avm
